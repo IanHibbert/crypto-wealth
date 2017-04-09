@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/csc301-winter-2017/project-team-10.svg?branch=master)](https://travis-ci.org/csc301-winter-2017/project-team-10)
 
+Note: Har0ldC's contribution graph is, for some reason, not appearing on Github. Please refer to the repo's commit history to see his commits.
+
 # CryptoWealth
 
 ## Table of Contents
